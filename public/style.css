@@ -1,0 +1,10 @@
+/* Fallback CSS stylesheet for static deployments */
+:root {
+  --primary-navy: #0f172a;
+  --accent-emerald: #10b981;
+  --bg-canvas: #fbfbfc;
+}
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}

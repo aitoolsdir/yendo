@@ -1,0 +1,6 @@
+{
+  "name": "Yendo Credit Card Review & Application Guide",
+  "description": "Comprehensive editorial review, vehicle equity calculator, and application guide for the Yendo Credit Card backed by your car.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

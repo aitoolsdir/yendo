@@ -1,0 +1,7 @@
+# robots.txt for Yendo Credit Card Independent Review & Guide
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ais-pre-lvntcd55pd47olmmizjmfl-87062288649.asia-southeast1.run.app/sitemap.xml
+Sitemap: https://ais-pre-lvntcd55pd47olmmizjmfl-87062288649.asia-southeast1.run.app/image-sitemap.xml

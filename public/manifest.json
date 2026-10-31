@@ -1,0 +1,16 @@
+{
+  "name": "Yendo Credit Card Review & Application Guide",
+  "short_name": "Yendo Review",
+  "description": "Comprehensive review, vehicle equity calculator, and guide for the Yendo Credit Card.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFBFC",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
